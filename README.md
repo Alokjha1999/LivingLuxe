@@ -54,11 +54,12 @@ Run npm start to start the application
 
 - HTML/CSS
 - JavaScript
+- React JS
 
 ## Backend
 
-- JavaScript
-- React JS
+- Node Js
+
 
 
 
